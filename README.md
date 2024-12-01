@@ -2,7 +2,7 @@
 
 ## Overview
 
-[aoc-fun](https://github.com/CZero/aoc-fun?tab=readme-ov-file)
+[aoc-fun](https://github.com/CZero/aoc-fun?tab=readme-ov-file)  
 [leaderbord](https://adventofcode.com/2024/leaderboard/private/view/792151)
 
 ![](https://img.shields.io/badge/days%20completed-1-red)  
