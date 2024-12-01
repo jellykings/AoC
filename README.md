@@ -8,6 +8,6 @@
 ![](https://img.shields.io/badge/days%20completed-1-red)  
 ![](https://img.shields.io/badge/stars%20⭐-2-yellow)
 
-| Day | Problem            | A                     | B                     | Stars won                                            |
+| Day | Problem            | 1                     | 2                     | Stars won                                            |
 |----:|:-------------------|:----------------------|:----------------------|:-----------------------------------------------------|
 |  01 | Historian Hysteria | [**1**](01/main_part1.py) | [**2**](01/main_part2.py) | ![](https://img.shields.io/badge/stars%20⭐-2-yellow) |
